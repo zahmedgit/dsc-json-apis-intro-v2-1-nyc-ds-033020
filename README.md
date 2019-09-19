@@ -25,7 +25,7 @@ Once you've learned how to import data that has been stored in the JSON format, 
 
 ### Recursive Functions
 
-Next, you'll take a bit of a side step to introduce recursive functions. A recursive function is one that calls itself - perhaps many times. Recursive functions can be used to write incredibly terse and powerful solutions to certain types of problems. They take quite a while to get used to, but once you learn how to use them you'll be surprised at how often they can help you to solve a problem that would otherwise be much more difficult (or even impossible) to solve. You’ll be introduced to them now because recursive functions can be a very powerful tool for parsing JSON or XML documents that could have very deeply embedded information (e.g. a person has worked at many companies, each company has many addresses and each address has much staff, each of which has an email address).
+Next, you'll take a bit of a sidestep to introduce recursive functions. A recursive function is one that calls itself - perhaps many times. Recursive functions can be used to write incredibly terse and powerful solutions to certain types of problems. They take quite a while to get used to, but once you learn how to use them you'll be surprised at how often they can help you to solve a problem that would otherwise be much more difficult (or even impossible) to solve. You’ll be introduced to them now because recursive functions can be a very powerful tool for parsing JSON or XML documents that could have very deeply embedded information (e.g. a person has worked at many companies, each company has many addresses and each address has much staff, each of which has an email address).
 
 ### Exploring JSON Schemas
 
