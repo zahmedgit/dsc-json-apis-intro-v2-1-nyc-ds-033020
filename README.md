@@ -59,8 +59,3 @@ We wrap up the section by creating interactive maps with Folium. In the Appendix
 Whether it’s from an API or a NoSQL store, it's quite possible that some of the data you find yourself working with will be stored using JSON. In this section, you'll build the confidence to be able to import and transform such data.
 
 Also, many companies provide access to their data via an API, so being able to connect to and work with data provided via an API is a critical skill as a professional data scientist. 
-
-
-```python
-
-```
