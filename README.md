@@ -3,10 +3,9 @@
 
 ## Introduction
 
-In this section, you'll learn about an additional data type: JSON files. Files with a JSON format are extensively used on the web, and is the new standard data format for the web. You'll also learn about APIs and why they're important to you as a data scientist.
+In this section, you’ll learn about an additional data type: JSON (which stands for JavaScript Object Notation), as well as APIs (Application Programming Interfaces).  
 
-Before JSON files were widely adopted, XML files were used. You'll have a chance to learn about XML files in the Appendix for this section.
-
+JSON is the new standard data format for the web. An older data format that is still used on the web is XML, or Extensible Markup Language, which you’ll have a chance to learn more about in the Appendix. APIs are one of the many ways you’ll access data as a data scientist.
 
 ## Working with JSON files
 
@@ -40,7 +39,7 @@ We then look at the basic model of "clients" and "servers" to provide a framewor
 
 ### The Request/Response Cycle 
 
-Next, we'll look at the fundamental mechanism by which web-based APIs are typically accessed - sending an HTTP request ad then processing the response provided by the server. We'll also get a little experience working with HTTP requests using the Python `.get()` method within the `requests` package. We also get some hands-on experience retrieving information from NASA using [Open Notify](http://open-notify.org/).
+Next, we'll look at the fundamental mechanism by which web-based APIs are typically accessed - sending an HTTP request and then processing the response provided by the server. We'll also get a little experience working with HTTP requests using the Python `.get()` method within the `requests` package. We also get some hands-on experience retrieving information from NASA using [Open Notify](http://open-notify.org/).
 
 ### APIs and OAuth
 
@@ -58,4 +57,4 @@ We wrap up the section by creating interactive maps with Folium. In the Appendix
 
 Whether it’s from an API or a NoSQL store, it's quite possible that some of the data you find yourself working with will be stored using JSON. In this section, you'll build the confidence to be able to import and transform such data.
 
-Also, many companies provide access to their data via an API, so being able to connect to and work with data provided via an API is a critical skill as a professional data scientist. 
+Also, many companies provide access to their data via an API, so being able to connect to and work with data provided via an API is a critical skill as a professional data scientist!
